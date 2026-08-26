@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **BCA Student** (4th Semester)
+- 🎓 **BCA Student** (5th Semester)
 - 💻 Building clean, functional web designs and Python scripts.
 - ⚡ I enjoy solving problems and automating tasks with code.
 - 📫 Reach me at: **up281004@gmail.com**
