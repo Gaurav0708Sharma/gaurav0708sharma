@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -22,7 +23,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **BCA Student** (5th Semester)
+- 🎓 **BCA Student** Last Year(5th Semester)
 - 💻 Building clean, functional web designs and Python scripts.
 - ⚡ I enjoy solving problems and automating tasks with code.
 - 📫 Reach me at: **up281004@gmail.com**
